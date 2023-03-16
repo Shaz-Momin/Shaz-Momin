@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaz-Momin
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning robust JS frameworks like NextJS (React JS) and Vue
-- 💞️ I’m looking to collaborate on Front-End aspect of open source projects
+- 🤝 I’m looking to collaborate on Front-End aspect of open source projects
 - 📫 How to reach me -> shaz.momin@utexas.edu
 
 <!---
